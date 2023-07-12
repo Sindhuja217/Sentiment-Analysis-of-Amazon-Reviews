@@ -1,0 +1,4 @@
+Epochs,Activation Fn,Dropout,Learn Rate,Train Acc,Val Acc
+1,ReLU(),0.4,0.05,0.712659375,0.7401875
+1,Sigmoid(),0.4,0.05,0.720409375,0.749225
+1,Tanh(),0.4,0.05,0.7102828125,0.7368125
